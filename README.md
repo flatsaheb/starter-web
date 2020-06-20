@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How To Contribute
+ Date 19/06: Comaparing working and staging chnages
+	     Adding text for comparing between staging and working copy 
+
