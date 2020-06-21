@@ -4,7 +4,11 @@ Copyright 2014 C Latsaheb Technologies
 
 -->
 <head>
+<<<<<<< HEAD
 	<title>Great, back on Master Branch</title>
+=======
+	<title>Great Im on branch</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,12 +22,19 @@ Copyright 2014 C Latsaheb Technologies
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Yeah i know im on branch
+<<<<<<< HEAD
 			Made changes on master	
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+		<p>&copy; Company Master 2014</p>
+=======
+			Yeah i know im on branch
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company Branch  2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
