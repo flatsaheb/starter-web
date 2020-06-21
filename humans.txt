@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+ Fakhru Software Developer latsaheb@gmail.com
+ Sai Junior Developer xxx@gmail.com 
 
 # THANKS
 
