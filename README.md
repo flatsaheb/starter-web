@@ -9,6 +9,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Deployment
+Deployment window schdule for next week
 
 ## How To Contribute
  Date 19/06: Comaparing working and staging chnages
